@@ -3,7 +3,7 @@
 ## Short Summary
 This project develops a two stage deep learning recommendation system for fashion products. It combines customer profiles, article metadata, transaction behavior, and **ResNet-152 image embeddings** to generate high quality personalized recommendations.
 
-The core model uses a **two-tower neural network** (customer tower + item tower) for fast candidate retrieval at scale, followed by a ranking model that re-scores those candidates and returns top-k results. The image embeddings add visual style signals that structured/tabular features alone cannot capture.
+The core model uses a **two-tower neural network** (customer tower + item tower) for fast candidate **retrieval** at scale, followed by a **ranking** model that re-scores those candidates and returns top-k results. The image embeddings add visual style signals that structured/tabular features alone cannot capture.
 
 What makes this pipeline different is its **multimodal design**: it unifies user behavior, structured product/customer features, and image semantics in one end-to-end recommendation workflow.
 
