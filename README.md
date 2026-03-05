@@ -17,7 +17,7 @@ What makes this pipeline different is its **multimodal design**: it unifies user
 - Filters previously purchased items during inference.
 - Evaluates performance using Precision@K, Recall@K, and NDCG@K.
 
-![Recommendation System](research_poster.png)
+![Recommendation System](Project Poster.png)
 
 ## Main File
 - `Final Code.ipynb`
