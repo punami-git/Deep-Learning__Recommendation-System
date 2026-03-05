@@ -19,6 +19,9 @@ What makes this pipeline different is its **multimodal design**: it unifies user
 
   ![Alt text]( Research Poster.png "Research Poster")
 
+  <img src="https://github.com/punami-git/Deep-Learning__Recommendation-System/blob/a9794dde556dec906e686a5f04b06f4960584296/Research%20Poster.png" alt="Alt text" width="500" height="300">
+
+
 ## Main File
 - `Final Code.ipynb`
 
