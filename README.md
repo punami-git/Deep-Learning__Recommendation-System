@@ -17,10 +17,7 @@ What makes this pipeline different is its **multimodal design**: it unifies user
 - Filters previously purchased items during inference.
 - Evaluates performance using Precision@K, Recall@K, and NDCG@K.
 
-  ![Alt text]( Research Poster.png "Research Poster")
-
-  <img src="https://github.com/punami-git/Deep-Learning__Recommendation-System/blob/a9794dde556dec906e686a5f04b06f4960584296/Research%20Poster.png" alt="Alt text" width="500" height="300">
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](Research Poster.png)
 
 ## Main File
 - `Final Code.ipynb`
