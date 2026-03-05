@@ -7,6 +7,10 @@ The core model uses a **two-tower neural network** (customer tower + item tower)
 
 What makes this pipeline different is its **multimodal design**: it unifies user behavior, structured product/customer features, and image semantics in one end-to-end recommendation workflow.
 
+<p align="center">
+  <img src="project_poster.png" width="800">
+</p>
+
 ## What It Does
 - Loads and preprocesses customer, article, and transaction datasets.
 - Creates a time based train/validation/test split.
@@ -16,11 +20,7 @@ What makes this pipeline different is its **multimodal design**: it unifies user
 - Re-ranks candidates to produce final top-k recommendations.
 - Filters previously purchased items during inference.
 - Evaluates performance using Precision@K, Recall@K, and NDCG@K.
-
-<p align="center">
-  <img src="project_poster.png" width="800">
-</p>
-
+  
 ## Main File
 - `Final Code.ipynb`
 
